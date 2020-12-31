@@ -1,6 +1,6 @@
 ## Description
 
-It is CLI executable CRUD app which allows to register and manage restaurant visitor objects and store them and manipulate in .csv file as a string.
+It is CLI executable CRUD app which allows to register and manage restaurant visitor objects, to store them and manipulate in .csv file as a string.
 
 ## Setup
 
